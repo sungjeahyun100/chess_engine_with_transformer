@@ -1,0 +1,7 @@
+torch>=2.5
+tqdm>=4.65
+numpy>=1.23
+pandas>=2.3.3
+seaborn>=0.13.2
+matplotlib>=3.10.7
+chess>=1.11.2

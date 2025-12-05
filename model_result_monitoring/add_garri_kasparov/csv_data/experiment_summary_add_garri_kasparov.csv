@@ -1,0 +1,2 @@
+experiment_id,total_epochs,total_batches,initial_loss,final_loss,min_loss,gradient_ratio,convergence_status,total_improvement,avg_batch_std,avg_batch_var,generation_time
+add_garri_kasparov,30,930,10.739239,3.647735,3.647735,0.49028897888342493,정상적인 수렴,7.091504,0.6085816922160467,0.40036336224056696,2025-12-06 07:21:57

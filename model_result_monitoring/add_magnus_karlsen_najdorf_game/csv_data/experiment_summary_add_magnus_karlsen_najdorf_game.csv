@@ -1,0 +1,2 @@
+experiment_id,total_epochs,total_batches,initial_loss,final_loss,min_loss,gradient_ratio,convergence_status,total_improvement,avg_batch_std,avg_batch_var,generation_time
+add_magnus_karlsen_najdorf_game,30,510,11.659211,3.098111,3.098111,0.16541648238956314,정상적인 수렴,8.561100000000001,1.0983121593091536,1.6474136957443333,2025-12-06 07:21:48

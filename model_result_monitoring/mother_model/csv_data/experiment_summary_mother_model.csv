@@ -1,0 +1,2 @@
+experiment_id,total_epochs,total_batches,initial_loss,final_loss,min_loss,gradient_ratio,convergence_status,total_improvement,avg_batch_std,avg_batch_var,generation_time
+mother_model,100,151500,27.449441,6.755494,6.755494,0.07961676187949379,기울기 소실 가능성,20.693947,1.167946530624277,4.907612600065492,2025-12-06 07:22:02

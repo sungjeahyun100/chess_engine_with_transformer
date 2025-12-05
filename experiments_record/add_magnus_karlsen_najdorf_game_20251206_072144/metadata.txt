@@ -1,0 +1,21 @@
+Fine-tuning Experiment Record: add_magnus_karlsen_najdorf_game_20251206_072144
+Timestamp: 2025-12-06 07:21:44
+Base Model: add_magnus_karlsen
+New Model ID: add_magnus_karlsen_najdorf_game
+Resumed from: checkpoints_finetune/add_magnus_karlsen/best.pt
+
+Fine-tuning Hyperparameters:
+  Epochs: 30
+  Batch Size: 16
+  Learning Rate: 0.0001
+
+Model Architecture:
+  d_model: 256
+  n_heads: 4
+  n_layers: 4
+  d_ff: 1024
+  dropout: 0.1
+  max_seq_len: 256
+  vocab_size: 2296
+
+Data Directory: finetune/칼슨_나이도프

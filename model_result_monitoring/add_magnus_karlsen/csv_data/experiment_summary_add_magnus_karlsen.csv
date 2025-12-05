@@ -1,0 +1,2 @@
+experiment_id,total_epochs,total_batches,initial_loss,final_loss,min_loss,gradient_ratio,convergence_status,total_improvement,avg_batch_std,avg_batch_var,generation_time
+add_magnus_karlsen,30,870,5.192548,1.687145,1.687145,0.3580033876089433,정상적인 수렴,3.5054030000000003,0.35008679402838805,0.13632385782882414,2025-12-06 07:21:52
