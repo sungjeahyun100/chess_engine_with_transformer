@@ -1,2 +1,7 @@
 .venv/
 chessdata/
+model_result_monitoring/**/plots/
+graph/**
+**/*.zip
+*.log
+*.tmp
